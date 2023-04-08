@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Image Slide Show</string>
+    <string name="next_btn_text">Next</string>
+    <string name="previous_btn_text">Back</string>
+</resources>
